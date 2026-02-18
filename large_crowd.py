@@ -25,7 +25,7 @@ from utils.plots import Annotator, colors, save_one_box
 from utils.torch_utils import select_device, smart_inference_mode
 
 import telepot
-bot=telepot.Bot('7766167669:AAGFOJT8IThbUAuYiaBImg8v3LnmFtghbIk')
+bot=telepot.Bot('token id')
 
 
 @smart_inference_mode()
